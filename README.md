@@ -8,9 +8,9 @@ badg.us is a badge service based on [django-badger][] and [playdoh][].
 
 Bugs and Ideas
 --------------
-Feel free to file them [as issues on the badges.mozilla.org project][issues]!
+Feel free to file them [as issues][issues]!
 
-[issues]: https://github.com/mozilla/badges.mozilla.org/issues
+[issues]: https://github.com/mozilla/badg.us/issues
 
 Development
 -----------
